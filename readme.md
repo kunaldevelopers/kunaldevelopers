@@ -59,7 +59,9 @@ I am a dedicated **MERN Stack Developer** with a strong interest in **Linux tool
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaldevelopers&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaldevelopers&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevelopers&layout=compact&theme=radical)
 
 ---
 
